@@ -39,4 +39,9 @@ INSTALL AND SETUP
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/darkpixel/snppsend/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdarkpixel%2Fsnppsend.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdarkpixel%2Fsnppsend?ref=badge_shield)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdarkpixel%2Fsnppsend.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdarkpixel%2Fsnppsend?ref=badge_large)
